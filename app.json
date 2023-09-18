@@ -1,7 +1,7 @@
 {
-  "name": "Mickey Bot",
-  "description": "A telegram bot",
-  "logo": "https://te.legra.ph/file/dc32c85de4f1ad9b3456b.jpg",
+  "name": "Xytra Chatbot",
+  "description": "A powerful telegram Ai chatbotbot",
+  "logo": "https://telegra.ph/file/17a48f70880de532c7d5f.jpg",
   "keywords": [
     "Chatbot",
     "mongodb",
@@ -11,7 +11,8 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/Devarora-0981/Mickey",
+  "repository": "https://github.com/Xytra-zn/chatbot
+  ",
   "env": {
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps.",
